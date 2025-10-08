@@ -1,3 +1,13 @@
 clean.sh
 venv
-.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+.env/
+.venv/
+.ipynb_checkpoints/
